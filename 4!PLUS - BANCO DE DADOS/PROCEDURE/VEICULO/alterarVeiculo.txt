@@ -1,0 +1,34 @@
+CREATE PROCEDURE uspVeiculoAlterar
+
+
+	@ID_VEICULO int,
+	@ID_CLIENTE Int,
+        @PLACA varchar(20),
+        @MARCA varchar(30),
+        @MODELO varchar(30),
+        @ANO int,
+        @COR varchar(20),
+        @COMBUSTIVEL varchar(20),
+	@NOME_CLIENTE varchar (50)
+
+AS
+BEGIN
+
+UPDATE VEICULO
+SET
+	@ID_CLIENTE = @ID_CLIENTE,
+        PLACA = @PLACA  ,
+        MARCA = @MARCA,
+        MODELO = @MODELO,
+        ANO = @ANO ,
+        COR = @COR ,
+        COMBUSTIVEL = @COMBUSTIVEL,
+	@NOME_CLIENTE = @NOME_CLIENTE
+
+WHERE
+
+ID_VEICULO = @ID_VEICULO
+
+SELECT @ID_VEICULO AS Retorno
+
+END

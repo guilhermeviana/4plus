@@ -1,0 +1,19 @@
+CREATE PROCEDURE uspDefeitoConsultarPorID
+@ID_DEFEITO	int
+AS
+BEGIN
+
+SELECT
+		ID_DEFEITO,
+		NOME_DEFEITO,
+           DESCRIÇÃO,
+           VALOR
+
+		   FROM
+		   DEFEITO
+
+		   WHERE 
+
+		   ID_DEFEITO = @ID_DEFEITO
+
+		   END

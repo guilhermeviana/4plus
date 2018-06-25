@@ -1,0 +1,28 @@
+CREATE PROCEDURE uspClienteConsultarPorNome
+@NOME varchar(50)
+AS
+BEGIN
+
+SELECT
+		ID_CLIENTE,
+		NOME,
+           CPF,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_RESIDENCIAL,
+           TEL_CELULAR,
+           EMAIL
+
+		   FROM
+		   CLIENTE
+
+		   WHERE 
+
+		   NOME LIKE '%' + @NOME + '%'
+
+		   END

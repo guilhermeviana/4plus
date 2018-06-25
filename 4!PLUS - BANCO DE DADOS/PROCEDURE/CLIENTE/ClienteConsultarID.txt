@@ -1,0 +1,28 @@
+CREATE PROCEDURE uspClienteConsultarPorID
+@ID_CLIENTE	int
+AS
+BEGIN
+
+SELECT
+		ID_CLIENTE,
+		NOME,
+           CPF,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_RESIDENCIAL,
+           TEL_CELULAR,
+           EMAIL
+
+		   FROM
+		   CLIENTE
+
+		   WHERE 
+
+		   ID_CLIENTE = @ID_CLIENTE
+
+		   END

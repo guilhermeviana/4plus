@@ -1,0 +1,19 @@
+CREATE PROCEDURE uspUsuarioConsultarPorNome
+@USUARIO varchar(50)
+AS
+BEGIN
+
+SELECT
+		ID_USUARIO,
+		USUARIO,
+		SENHA,
+		REPITA_SENHA
+
+		   FROM
+		   USUARIO
+
+		   WHERE 
+
+		   USUARIO LIKE '%' + @USUARIO + '%'
+
+		   END

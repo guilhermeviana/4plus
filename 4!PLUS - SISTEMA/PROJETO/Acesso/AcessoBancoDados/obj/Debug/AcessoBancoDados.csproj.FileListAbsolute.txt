@@ -1,0 +1,91 @@
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

@@ -1,0 +1,26 @@
+CREATE PROCEDURE uspDefeitoInserir
+
+	@NOME_DEFEITO varchar (50),
+        @DESCRIÇÃO varchar (200),
+        @VALOR varchar (20)
+
+AS
+BEGIN
+
+		INSERT INTO DEFEITO
+		(
+           NOME_DEFEITO,
+           DESCRIÇÃO,
+           VALOR
+
+		 )
+
+     VALUES
+	 (
+           @NOME_DEFEITO,
+           @DESCRIÇÃO,
+           @VALOR
+	)
+
+	SELECT @@IDENTITY AS Retorno
+END

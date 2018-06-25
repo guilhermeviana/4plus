@@ -1,0 +1,17 @@
+CREATE PROCEDURE uspVeiculoExcluir
+	
+	@ID_VEICULO	int
+
+AS
+BEGIN
+
+	DELETE FROM
+		VEICULO
+
+		WHERE
+		
+		ID_VEICULO = @ID_VEICULO
+
+		SELECT @ID_VEICULO AS Retorno
+
+END

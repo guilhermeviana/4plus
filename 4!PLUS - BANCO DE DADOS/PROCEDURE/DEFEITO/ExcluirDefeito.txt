@@ -1,0 +1,17 @@
+CREATE PROCEDURE uspDefeitoExcluir
+	
+	@ID_DEFEITO	int
+
+AS
+BEGIN
+
+	DELETE FROM
+		DEFEITO
+
+		WHERE
+		
+		ID_DEFEITO = @ID_DEFEITO
+
+		SELECT @ID_DEFEITO AS Retorno
+
+END

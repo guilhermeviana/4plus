@@ -1,0 +1,26 @@
+CREATE PROCEDURE uspMecanicaConsultarPorID
+@ID_MECANICA	int
+AS
+BEGIN
+
+SELECT
+		ID_MECANICA,
+		NOME_MECANICA,
+           CNPJ,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_COMERCIAL
+
+		   FROM
+		   MECANICA
+
+		   WHERE 
+
+		   ID_MECANICA = @ID_MECANICA
+
+		   END

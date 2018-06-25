@@ -1,0 +1,162 @@
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\15.10\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Andreia\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\28.10\26.10 PASTA COMPACTADA\26.10\23.10\22.10\21.10\20.10PEDRO (SENAC)\20.10PEDRO\16.10PEDRO\CadastroCliente\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pedro\Desktop\BANCO 29.10\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\4!Plus - OK\BANCO 29.10.15\AcessoBancoDados\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\obj\Debug\Negocios.dll
+C:\Users\pedro.hgsilva\Desktop\4!PLUS\4!PLUS - PROJETO\PROJETO\Acesso\Negocios\obj\Debug\Negocios.pdb

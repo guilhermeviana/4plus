@@ -1,0 +1,17 @@
+CREATE PROCEDURE uspClienteExcluir
+	
+	@ID_CLIENTE	int
+
+AS
+BEGIN
+
+	DELETE FROM
+		CLIENTE
+
+		WHERE
+		
+		ID_CLIENTE = @ID_CLIENTE
+
+		SELECT @ID_CLIENTE AS Retorno
+
+END

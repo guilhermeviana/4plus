@@ -1,0 +1,51 @@
+CREATE PROCEDURE uspClienteInserir
+	@NOME varchar(50),
+        @CPF varchar(20),
+        @CEP varchar(20),
+        @ENDEREÇO varchar(50),
+        @NUMERO int,
+        @COMPLEMENTO varchar(2),
+        @BAIRRO varchar(30),
+        @CIDADE varchar(30),
+        @UF varchar(2),
+        @TEL_RESIDENCIAL varchar(20),
+        @TEL_CELULAR varchar(20),
+        @EMAIL varchar(40)
+
+AS
+BEGIN
+
+		INSERT INTO CLIENTE
+		(
+           NOME,
+           CPF,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_RESIDENCIAL,
+           TEL_CELULAR,
+           EMAIL
+		 )
+
+     VALUES
+	 (
+           @NOME,
+           @CPF,
+           @CEP,
+           @ENDEREÇO,
+           @NUMERO,
+           @COMPLEMENTO,
+           @BAIRRO,
+           @CIDADE,
+           @UF,
+           @TEL_RESIDENCIAL,
+           @TEL_CELULAR,
+           @EMAIL
+	)
+
+	SELECT @@IDENTITY AS Retorno
+END

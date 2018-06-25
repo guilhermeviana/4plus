@@ -1,0 +1,38 @@
+CREATE PROCEDURE uspMecanicaAlterar
+
+		@ID_MECANICA Int,
+		@NOME_MECANICA VARCHAR(50),
+        @CNPJ VARCHAR (20),
+        @CEP VARCHAR(20),
+        @ENDEREÇO VARCHAR(50),
+        @NUMERO int,
+        @COMPLEMENTO VARCHAR(2),
+        @BAIRRO VARCHAR(30),
+        @CIDADE VARCHAR(30),
+        @UF VARCHAR(2),
+        @TEL_COMERCIAL VARCHAR (20)
+
+AS
+BEGIN
+
+		UPDATE MECANICA
+		SET
+           NOME_MECANICA = @NOME_MECANICA,
+           CNPJ = @CNPJ,
+           CEP = @CEP,
+           ENDEREÇO = @ENDEREÇO,
+           NUMERO = @NUMERO,
+           COMPLEMENTO = @COMPLEMENTO,
+           BAIRRO = @BAIRRO,
+           CIDADE = @CIDADE,
+           UF = @UF,
+           TEL_COMERCIAL = @TEL_COMERCIAL
+		 
+
+		 WHERE
+
+		 ID_MECANICA = @ID_MECANICA
+
+	SELECT @ID_MECANICA AS Retorno
+
+END

@@ -1,0 +1,42 @@
+CREATE PROCEDURE uspVeiculoInserir
+
+        @PLACA varchar(20),
+        @MARCA varchar(30),
+        @MODELO varchar(30),
+        @ANO int,
+        @COR varchar(20),
+        @COMBUSTIVEL varchar(20),
+	@NOME_CLIENTE varchar (50)
+
+
+AS
+BEGIN
+
+		INSERT INTO VEICULO
+		(
+
+           PLACA,
+           MARCA,
+           MODELO,
+           ANO,
+           COR,
+           COMBUSTIVEL,
+	NOME_CLIENTE
+
+		 )
+
+     VALUES
+	 (
+
+           @PLACA,
+           @MARCA,
+           @MODELO,
+           @ANO,
+           @COR,
+           @COMBUSTIVEL,
+	@NOME_CLIENTE
+
+	)
+
+	SELECT @@IDENTITY AS Retorno
+END

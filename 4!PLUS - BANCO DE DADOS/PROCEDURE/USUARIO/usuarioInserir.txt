@@ -1,0 +1,28 @@
+CREATE PROCEDURE uspUsuarioInserir
+	
+	
+        @USUARIO varchar(50) NOT NULL,
+        @SENHA varchar(50) NOT NULL,
+        @NIVEL_ACESSO varchar(50) NOT NULL
+    
+
+AS
+BEGIN
+
+		INSERT INTO CLIENTE
+		(
+           USUARIO,
+           SENHA,
+           NIVEL_ACESSO
+           
+		 )
+
+     VALUES
+	 (
+           @USUARIO,
+           @SENHA,
+           @NIVEL_ACESSO
+	)
+
+	SELECT @@IDENTITY AS Retorno
+END

@@ -1,0 +1,17 @@
+CREATE PROCEDURE uspUsuarioExcluir
+	
+	@ID_USUARIO	int
+
+AS
+BEGIN
+
+	DELETE FROM
+		USUARIO
+
+		WHERE
+		
+		ID_USUARIO = @ID_USUARIO
+
+		SELECT @ID_USUARIO AS Retorno
+
+END

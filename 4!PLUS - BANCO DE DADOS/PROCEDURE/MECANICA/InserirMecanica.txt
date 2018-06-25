@@ -1,0 +1,45 @@
+CREATE PROCEDURE uspMecanicaInserir
+
+	@NOME_MECANICA varchar(50),
+        @CNPJ varchar(20),
+        @CEP varchar(20),
+        @ENDEREÇO varchar(50),
+        @NUMERO int,
+        @COMPLEMENTO varchar(2),
+        @BAIRRO varchar(30),
+        @CIDADE varchar(30),
+        @UF varchar(2),
+        @TEL_COMERCIAL varchar(20)
+AS
+BEGIN
+
+		INSERT INTO MECANICA
+		(
+           NOME_MECANICA,
+           CNPJ,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_COMERCIAL
+		 )
+
+     VALUES
+	 (
+           @NOME_MECANICA,
+           @CNPJ,
+           @CEP,
+           @ENDEREÇO,
+           @NUMERO,
+           @COMPLEMENTO,
+           @BAIRRO,
+           @CIDADE,
+           @UF,
+           @TEL_COMERCIAL
+	)
+
+	SELECT @@IDENTITY AS Retorno
+END

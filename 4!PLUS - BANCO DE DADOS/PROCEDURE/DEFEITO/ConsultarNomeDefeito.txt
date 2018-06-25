@@ -1,0 +1,19 @@
+CREATE PROCEDURE uspDefeitoConsultarPorNome
+@NOME_DEFEITO varchar(50)
+AS
+BEGIN
+
+SELECT
+		ID_DEFEITO,
+		NOME_DEFEITO,
+           DESCRIÇÃO,
+           VALOR
+
+		   FROM
+		   DEFEUTI
+
+		   WHERE 
+
+		   NOME_DEFEITO LIKE '%' + @NOME_DEFEITO + '%'
+
+		   END

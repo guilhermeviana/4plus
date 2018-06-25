@@ -1,0 +1,41 @@
+CREATE PROCEDURE uspClienteAlterar
+
+        @ID_CLIENTE INT,
+	@NOME varchar(50),
+        @CPF varchar(20),
+        @CEP varchar(20),
+        @ENDEREÇO varchar(50),
+        @NUMERO int,
+        @COMPLEMENTO varchar(2),
+        @BAIRRO varchar(30),
+        @CIDADE varchar(30),
+        @UF varchar(2),
+        @TEL_RESIDENCIAL varchar(20),
+        @TEL_CELULAR varchar(20),
+        @EMAIL varchar(40)
+
+AS
+BEGIN
+
+UPDATE CLIENTE
+SET
+	
+           NOME = @NOME,
+           CPF = @CPF,
+           CEP = @CEP,
+           ENDEREÇO = @ENDEREÇO,
+           NUMERO = @NUMERO,
+           COMPLEMENTO = @COMPLEMENTO,
+           BAIRRO = @BAIRRO,
+           CIDADE = @CIDADE,
+           UF = @UF,
+           TEL_RESIDENCIAL = @TEL_RESIDENCIAL,
+		TEL_CELULAR = @TEL_CELULAR,
+		EMAIL = @EMAIL
+WHERE
+
+ID_CLIENTE = @ID_CLIENTE
+
+SELECT @ID_CLIENTE AS Retorno
+
+END

@@ -1,0 +1,17 @@
+CREATE PROCEDURE uspOsExcluir
+	
+	@ID_OS	int
+
+AS
+BEGIN
+
+	DELETE FROM
+		OS
+
+		WHERE
+		
+		ID_OS = @ID_OS
+
+		SELECT @ID_OS AS Retorno
+
+END

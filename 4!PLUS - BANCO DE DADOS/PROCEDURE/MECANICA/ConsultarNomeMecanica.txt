@@ -1,0 +1,26 @@
+CREATE PROCEDURE uspMecanicaConsultarPorNome
+@NOME_MECANICA varchar(50)
+AS
+BEGIN
+
+SELECT
+		ID_MECANICA,
+		NOME_MECANICA,
+           CNPJ,
+           CEP,
+           ENDEREÇO,
+           NUMERO,
+           COMPLEMENTO,
+           BAIRRO,
+           CIDADE,
+           UF,
+           TEL_COMERCIAL
+
+		   FROM
+		  MECANICA
+
+		   WHERE 
+
+		   NOME_MECANICA LIKE '%' + @NOME_MECANICA + '%'
+
+		   END

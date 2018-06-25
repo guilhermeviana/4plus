@@ -1,0 +1,24 @@
+CREATE PROCEDURE uspVeiculoConsultarPorID
+@ID_VEICULO	int
+AS
+BEGIN
+
+SELECT
+		ID_VEICULO,
+		ID_CLIENTE
+         	PLACA,
+           	MARCA,
+           MODELO,
+           ANO,
+           COR,
+           COMBUSTIVEL,
+	NOME_CLIENTE
+
+		   FROM
+		   VEICULO
+
+		   WHERE 
+
+		   ID_VEICULO = @ID_VEICULO
+
+		   END

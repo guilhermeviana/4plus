@@ -1,0 +1,19 @@
+CREATE PROCEDURE uspUsuarioConsultarPorID
+@ID_USUARIO	int
+AS
+BEGIN
+
+SELECT
+		ID_USUARIO,
+		USUARIO,
+		SENHA,
+		REPITA_SENHA
+
+		   FROM
+		   USUARIO
+
+		   WHERE 
+
+		   ID_USUARIO = @ID_USUARIO
+
+		   END
